@@ -154,7 +154,7 @@ Counting the number of g's in the word engage
 ## 👤 Author
 
 **Everton Gomes**
-Senior Engineer — AI & Data | FedEx Europe
+Senior Engineer — AI & Data Analytics | FedEx Europe
 [GitHub](https://github.com/evertonhsg)
 
 ---

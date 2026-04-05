@@ -83,7 +83,7 @@ README.md                                          # This file
 
 ### Prerequisites
 - Python 3.10+
-- NVIDIA GPU with ≥ 15 GB VRAM
+- NVIDIA GPU with ≥ 15 GB VRAM or cloude resource
 - CUDA installed
 
 ### Installation
@@ -93,12 +93,6 @@ The notebook installs its own dependencies. The key packages are:
 ```bash
 pip install unsloth vllm trl datasets
 ```
-
-### Running the Notebook
-
-1. Open the notebook in **Jupyter Lab** or **Google Colab** (GPU runtime required)
-2. Run cells sequentially — each section builds on the previous
-3. Complete the `TODO` sections marked with `**********` — these are the learning exercises
 
 ---
 
